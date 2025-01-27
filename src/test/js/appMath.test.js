@@ -8,7 +8,7 @@ describe('AppMath', () => {
     });
 
     test('sum adds two numbers correctly', () => {
-        // expect(appMath.sum(1, 2)).toBe(3);
+        expect(appMath.sum(1, 2)).toBe(3);
     });
 
     test('subtract subtracts two numbers correctly', () => {
